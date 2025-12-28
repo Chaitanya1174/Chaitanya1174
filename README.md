@@ -42,27 +42,6 @@
 
 ---
 
-## 💡 Projects & Ideas
-
-- 🖨️ **Smart Printing App (Startup Idea)**  
-  Simplifies finding nearby print shops, cloud-based file sharing, auto file deletion after printing, and user-controlled print settings.
-
-- 🌐 More projects coming soon…  
-  *(Learning → Building → Improving)*
-
----
-
-## 📈 Learning Philosophy
-
-> “Don’t just learn tools.  
-> Learn how to **think**, **build**, and **improve**.”
-
-- Focus on **clarity over complexity**
-- Prefer **projects over theory-only learning**
-- Consistent improvement > perfection
-
----
-
 ## 📫 Connect With Me
 
 - 💼 GitHub: [https://github.com/ChaitanyaChavan](https://github.com/ChaitanyaChavan)
